@@ -1,0 +1,15 @@
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\bin\Debug\net8.0\Uge 10.exe
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\bin\Debug\net8.0\Uge 10.deps.json
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\bin\Debug\net8.0\Uge 10.runtimeconfig.json
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\bin\Debug\net8.0\Uge 10.dll
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\bin\Debug\net8.0\Uge 10.pdb
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\obj\Debug\net8.0\Uge 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\obj\Debug\net8.0\Uge 10.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\obj\Debug\net8.0\Uge 10.AssemblyInfo.cs
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\obj\Debug\net8.0\Uge 10.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\obj\Debug\net8.0\Uge 10.sourcelink.json
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\obj\Debug\net8.0\Uge 10.dll
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\obj\Debug\net8.0\refint\Uge 10.dll
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\obj\Debug\net8.0\Uge 10.pdb
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\obj\Debug\net8.0\Uge 10.genruntimeconfig.cache
+C:\Users\josep\Desktop\Uge 10\Uge 10\Uge 10\obj\Debug\net8.0\ref\Uge 10.dll
